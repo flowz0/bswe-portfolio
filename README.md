@@ -14,7 +14,7 @@
 - ✅ Contact form integration using Brevo
 - ✅ SEO-friendly metadata and clean structure
 
----
+<!-- --- -->
 
 <!-- ### 📸 Screenshots -->
 <!-- <p align="center">
