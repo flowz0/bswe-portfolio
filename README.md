@@ -57,7 +57,7 @@ npm run dev
 Create a .env.local file with the following variables:
 
 ```bash
-SENDGRID_API_KEY=your_sendgrid_api_key
+BREVO_API_KEY=your_brevo_api_key
 TO_EMAIL=your@email.com
 FROM_EMAIL=your@email.com
 ```
