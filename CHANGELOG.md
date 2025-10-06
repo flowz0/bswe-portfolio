@@ -1,3 +1,11 @@
+## [1.0.1](https://github.com/flowz0/bswe-portfolio/compare/v1.0.0...v1.0.1) (2025-10-06)
+
+
+### Bug Fixes
+
+* unknown at rule [@theme](https://github.com/theme) css(unknownAtRules) ([c1230f8](https://github.com/flowz0/bswe-portfolio/commit/c1230f8f42cd823a13b15812fb2f630ef6808ab9))
+* update README summary add "full-stack" ([47a20d4](https://github.com/flowz0/bswe-portfolio/commit/47a20d48ae873d846f8c4535054b05f2c3f33a58))
+
 # 1.0.0 (2025-10-04)
 
 
