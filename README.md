@@ -64,7 +64,7 @@ FROM_EMAIL=your@email.com
 
 ---
 
-🌐 Live Demo
+### 🌐 Live Demo
 
 You can view the live version of the portfolio at:
 
@@ -85,6 +85,6 @@ You may **not** reuse, copy, modify, or distribute any part of this code **witho
 
 ### 👤 Author
 
-Billy Flowers
+> Billy Flowers
 
 [billylflowers@gmail.com](mailto:billylflowers@gmail.com)
