@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/flowz0/bswe-portfolio/compare/v1.0.1...v1.1.0) (2025-10-09)
+
+
+### Features
+
+* **theme:** add custom fonts, font sizes, and color palette ([2cff3d2](https://github.com/flowz0/bswe-portfolio/commit/2cff3d2712c1e7c870c3a90ac473d98c36be6e45))
+
 ## [1.0.1](https://github.com/flowz0/bswe-portfolio/compare/v1.0.0...v1.0.1) (2025-10-06)
 
 
