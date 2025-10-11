@@ -14,14 +14,6 @@
 - ✅ Contact form integration using Brevo
 - ✅ SEO-friendly metadata and clean structure
 
-<!-- --- -->
-
-<!-- ### 📸 Screenshots -->
-<!-- <p align="center">
-  <img src="./screenshots/homepage.png" width="800" alt="Homepage Screenshot" />
-</p>
--->
-
 ---
 
 ### 🔧 Tech Stack
@@ -79,7 +71,7 @@ You can view the live version of the portfolio at:
 This project is **proprietary** and not open-source.
 You may **not** reuse, copy, modify, or distribute any part of this code **without** explicit written **permission**.
 
-> For licensing inquiries, email: **contact@netflows.xyz**
+> For licensing inquiries, email - **contact@netflows.xyz**
 
 ---
 
