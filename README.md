@@ -1,6 +1,6 @@
-# 🚀 Billy Flowers – Software Engineer Portfolio
+# Billy Flowers – Software Engineer Portfolio
 
-> Personal portfolio website for **Billy Flowers**, a full-stack software engineer specializing in modern web development. This site showcases selected work and provides a way for businesses and collaborators to get in touch.
+> My personal portfolio website as a full-stack software engineer specializing in modern web development. This site showcases selected work and provides a way for businesses and collaborators to get in touch.
 
 [![Live Demo](https://img.shields.io/badge/Demo-Live-green)](https://www.google.com)
 [![License: All Rights Reserved](https://img.shields.io/badge/License-All%20Rights%20Reserved-red.svg)](./LICENSE)
