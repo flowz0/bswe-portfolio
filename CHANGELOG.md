@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/flowz0/bswe-portfolio/compare/v1.1.0...v1.2.0) (2025-10-15)
+
+
+### Features
+
+* create header, sidebar, and Link components ([ef4294f](https://github.com/flowz0/bswe-portfolio/commit/ef4294fb5633d9019e309170a1eafa0eb34be289))
+
 # [1.1.0](https://github.com/flowz0/bswe-portfolio/compare/v1.0.1...v1.1.0) (2025-10-09)
 
 
