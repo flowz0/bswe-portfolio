@@ -1,7 +1,10 @@
-import { ArrowLinkProps } from "@/types/next";
+import { ButtonProps } from "@/types/next";
 import Link from "next/link";
 
-export default function ArrowLink({children, href}: ArrowLinkProps) {
+export default function Button({
+  children,
+  href
+}: ButtonProps) {
   return (
     <div>
       <Link

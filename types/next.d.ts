@@ -1,4 +1,4 @@
-export interface ArrowLinkProps {
+export interface ButtonProps {
   children: React.ReactNode;
   href: string;
 }
