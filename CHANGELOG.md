@@ -1,3 +1,16 @@
+# [1.3.0](https://github.com/flowz0/bswe-portfolio/compare/v1.2.0...v1.3.0) (2025-10-16)
+
+
+### Bug Fixes
+
+* add [@theme](https://github.com/theme) for brand fonts, sizes, and colors ([1330b60](https://github.com/flowz0/bswe-portfolio/commit/1330b608211ccac889cd27fd4de2fafd48bc063f))
+
+
+### Features
+
+* create Projects page and responsive Project table ([d85e9d0](https://github.com/flowz0/bswe-portfolio/commit/d85e9d0f14ccf0b27bd93ec0f3cf08181b7e75d3))
+* **ui:** add react-icons for components ([d86a77b](https://github.com/flowz0/bswe-portfolio/commit/d86a77b9a298b56cd87b9d14fae8dd9457c13480))
+
 # [1.2.0](https://github.com/flowz0/bswe-portfolio/compare/v1.1.0...v1.2.0) (2025-10-15)
 
 
