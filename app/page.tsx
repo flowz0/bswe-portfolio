@@ -1,12 +1,14 @@
 import About from "@/components/sections/About";
-import Sidebar from "@/components/sections/Sidebar";
+import Sidebar from "@/components/layout/Sidebar";
+import Experience from "@/components/sections/Experience";
 
 export default function Home() {
   return (
-    <main className="max-w-7xl mx-auto min-h-screen px-6 pt-16 lg:pt-24 lg:grid lg:grid-cols-[400px_1fr]">
+    <main className="max-w-7xl mx-auto px-6 pt-16 lg:pt-24 lg:grid lg:grid-cols-[400px_1fr]">
       <Sidebar />
-      <div className="overflow-y-auto lg:pl-48">
+      <div className="lg:pl-32 overflow-y-auto">
         <About />
+        <Experience />
       </div>
     </main>
   );
