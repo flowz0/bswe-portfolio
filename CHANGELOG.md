@@ -1,3 +1,12 @@
+# [1.4.0](https://github.com/flowz0/bswe-portfolio/compare/v1.3.0...v1.4.0) (2025-10-17)
+
+
+### Features
+
+* **about:** create About.tsx component and integrate About section into app ([43d1966](https://github.com/flowz0/bswe-portfolio/commit/43d1966074c30e011835501664e95486a12ee059))
+* create responsive Sidebar component ([55e0cea](https://github.com/flowz0/bswe-portfolio/commit/55e0cea5bdf398b1050470b4d41c4b5a388b8c9c))
+* implement Sidebar component and main Page content into a responsive layout ([8755660](https://github.com/flowz0/bswe-portfolio/commit/8755660e11328c92f9e058949c97c72355b4a76e))
+
 # [1.3.0](https://github.com/flowz0/bswe-portfolio/compare/v1.2.0...v1.3.0) (2025-10-16)
 
 
