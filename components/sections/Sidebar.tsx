@@ -3,7 +3,7 @@ import { FaLinkedin, FaGithubSquare } from "react-icons/fa";
 
 export default function Sidebar() {
   return (
-    <nav className="flex flex-col justify-between pb-24">
+    <aside className="flex flex-col justify-between pb-24">
       <div>
         <h1 className="text-h1 font-bold text-neutral-100">
           Billy Flowers
@@ -14,7 +14,7 @@ export default function Sidebar() {
         </p>
 
         {/* nav links */}
-        <div className="hidden mt-16 lg:flex flex-col gap-y-4">
+        <nav className="hidden mt-16 lg:flex flex-col gap-y-4">
           <Link href="/#about" className="grid items-center gap-x-4 grid-cols-[40px_1fr] group w-fit transition-all duration-300 ease-in-out hover:grid-cols-[80px_1fr]">
             <div className="h-[2px] bg-neutral-500 group-hover:bg-neutral-300" />
             <p className="text-p font-bold text-neutral-500 group-hover:text-neutral-300">ABOUT</p>
@@ -27,7 +27,7 @@ export default function Sidebar() {
             <div className="h-[2px] bg-neutral-500 group-hover:bg-neutral-300" />
             <p className="text-p font-bold text-neutral-500 group-hover:text-neutral-300">PROJECTS</p>
           </Link>
-        </div>
+        </nav>
       </div>
 
       {/* socials */}
@@ -39,6 +39,6 @@ export default function Sidebar() {
           <FaGithubSquare className="size-8 text-neutral-500 hover:text-neutral-300" />
         </Link>
       </div>
-    </nav>
+    </aside>
   );
 }
