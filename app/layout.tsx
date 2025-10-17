@@ -19,7 +19,7 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en">
+    <html lang="en" data-scroll-behavior="smooth" className="scroll-smooth">
       <body
         className={`${inter.variable} antialiased`}
       >
