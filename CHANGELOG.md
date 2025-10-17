@@ -1,3 +1,21 @@
+# [1.5.0](https://github.com/flowz0/bswe-portfolio/compare/v1.4.0...v1.5.0) (2025-10-17)
+
+
+### Bug Fixes
+
+* create ExperienceCard component ([5ef7145](https://github.com/flowz0/bswe-portfolio/commit/5ef7145b4aa1558396576e6af59f907235cd4972))
+* decrease margin top for 1st paragraph in About component ([9806eb5](https://github.com/flowz0/bswe-portfolio/commit/9806eb567fe409a63e18aebfd87198eae200a527))
+
+
+### Features
+
+* create ExperienceCardProps ([c5aec34](https://github.com/flowz0/bswe-portfolio/commit/c5aec34ec2e1c88924afe421978089e9cb0aaca5))
+* create responsive Experience component ([546fe38](https://github.com/flowz0/bswe-portfolio/commit/546fe3869bea8859b5391447d34028e3e9f8890d))
+* create responsive Sidebar component ([abf0ac9](https://github.com/flowz0/bswe-portfolio/commit/abf0ac95284f2590878d542da822ba1710d3414e))
+* create reusable Tag component ([ab3763b](https://github.com/flowz0/bswe-portfolio/commit/ab3763b49256c2d9bbafe7622eb58723415715ae))
+* implement Experience component, update component imports, remove min-h-screen from main element ([85570d5](https://github.com/flowz0/bswe-portfolio/commit/85570d547e404ef7db7f439d424df2dda3ff744b))
+* implement smooth scroll behavior ([7e3206c](https://github.com/flowz0/bswe-portfolio/commit/7e3206cba76d325b10b0dc17ba12500763bb6610))
+
 # [1.4.0](https://github.com/flowz0/bswe-portfolio/compare/v1.3.0...v1.4.0) (2025-10-17)
 
 
