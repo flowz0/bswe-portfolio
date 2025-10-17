@@ -18,10 +18,12 @@ export default function ExperienceCard({
       </div>
       <div>
         <Link href={link || "/"} className="flex items-center gap-x-2 group">
-          <h3 className="text-p font-bold text-neutral-300">
+          <h3 className="text-p font-bold text-neutral-100">
             {title} • {company}
           </h3>
-          <FaArrowRight className="size-6 -rotate-45 transition-all duration-300 ease-in-out group-hover:rotate-0" />
+          <div>
+            <FaArrowRight className="size-6 -rotate-45 transition-all duration-300 ease-in-out group-hover:rotate-0" />
+          </div>
         </Link>
         <p className="text-p text-neutral-300 mt-2">
           {summary}
