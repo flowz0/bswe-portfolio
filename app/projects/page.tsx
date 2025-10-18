@@ -30,32 +30,39 @@ export default function Page() {
           <div className="table-row-group">
             <div className="table-row">
               <div className="table-cell font-normal text-neutral-300">2025</div>
-              <div className="table-cell font-bold text-neutral-100">Netflows Platform</div>
+              <div className="table-cell font-bold text-neutral-100">Real-Time Chat Application</div>
               <div className="hidden lg:table-cell">
                 <div className="flex flex-wrap gap-2">
                   <div className="bg-neutral-700 text-neutral-300 text-p font-normal w-fit py-1 px-3 rounded-full">
-                    TypeScript
+                    JavaScript
                   </div>
                   <div className="bg-neutral-700 text-neutral-300 text-p font-normal w-fit py-1 px-3 rounded-full">
-                    Next.js
+                    Express
                   </div>
                   <div className="bg-neutral-700 text-neutral-300 text-p font-normal w-fit py-1 px-3 rounded-full">
-                    Tailwind CSS
+                    Node.js
                   </div>
                   <div className="bg-neutral-700 text-neutral-300 text-p font-normal w-fit py-1 px-3 rounded-full">
-                    SendGrid Email API
+                    Socket.io
                   </div>
                   <div className="bg-neutral-700 text-neutral-300 text-p font-normal w-fit py-1 px-3 rounded-full">
-                    Vercel
+                    MongoDB
+                  </div>
+                  <div className="bg-neutral-700 text-neutral-300 text-p font-normal w-fit py-1 px-3 rounded-full">
+                    JWT
+                  </div>
+                  <div className="bg-neutral-700 text-neutral-300 text-p font-normal w-fit py-1 px-3 rounded-full">
+                    bcryptjs
                   </div>
                 </div>
               </div>
               <div className="hidden md:table-cell">
                 <Link
-                  href="https://www.netflows.xyz"
+                  href="https://github.com/flowz0/chat-app"
+                  target="_blank"
                   className="flex items-center gap-x-2 text-neutral-500 transition-colors duration-300 ease-in-out hover:text-primary"
                 >
-                  netflows.xyz
+                  github.com/flowz0/chat-app
                   <FaArrowRight className="size-4 -rotate-45" />
                 </Link>
               </div>
