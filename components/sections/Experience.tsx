@@ -12,6 +12,7 @@ export default function Experience() {
           title="Full Stack Software Engineer"
           company="Netflows"
           summary="Built and deployed a high-performance agency website using Next.js, TypeScript, and Tailwind CSS, achieving a 98 Web Core Vitals score through advanced optimization and best practices. I developed a custom multi-step booking form with real-time validation and accessible UX, boosting completion rates by 35%, and integrated SendGrid Email API with serverless automation to cut manual lead handling by 60% while managing deployment and analytics through Vercel and GA4."
+          link="https://www.netflows.xyz/"
           tags={["TypeScript", "Next.js", "Tailwind CSS", "SendGrid Email API", "Vercel"]}
         />
         <ExperienceCard
@@ -19,6 +20,7 @@ export default function Experience() {
           title="Front End Software Engineer Intern"
           company="Bay Valley Tech"
           summary="Contributed to the development of a full-stack social media platform, implementing core features such as a responsive navbar, dark/light mode toggle, and live user search using React and React Router. I optimized navigation with dynamic routing for user profiles, settings, and feed pages, improving usability and UI consistency. Working in an Agile Scrum environment, I collaborated with front-end and back-end teams through daily standups, code reviews, and sprint planning to deliver features on time and maintain a high-quality user experience."
+          link="https://github.com/FrancescaImmediato/dev-duckies-sm-proj-front"
           tags={["JavaScript", "React", "React Router", "Bulma CSS", "Axios"]}
         />
       </div>
