@@ -1,3 +1,11 @@
+## [1.7.3](https://github.com/flowz0/bswe-portfolio/compare/v1.7.2...v1.7.3) (2025-10-18)
+
+
+### Bug Fixes
+
+* remove margin top from title Link on desktop in ExperienceCard component ([981a71a](https://github.com/flowz0/bswe-portfolio/commit/981a71a7a13dc3435a594de793e3961374bfe0f0))
+* remove unused css in ProjectCard component ([32f0104](https://github.com/flowz0/bswe-portfolio/commit/32f0104a972bd00ea2ca52ec25487df8aab98713))
+
 ## [1.7.2](https://github.com/flowz0/bswe-portfolio/compare/v1.7.1...v1.7.2) (2025-10-18)
 
 
