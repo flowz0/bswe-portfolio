@@ -1,3 +1,20 @@
+# [1.6.0](https://github.com/flowz0/bswe-portfolio/compare/v1.5.2...v1.6.0) (2025-10-18)
+
+
+### Bug Fixes
+
+* optimize spacing for consistency and improve UX ([e632536](https://github.com/flowz0/bswe-portfolio/commit/e632536422c9b37776c77cac42401a62069f99af))
+* remove margin top from parent div of Project details in ProjectCard component ([901564d](https://github.com/flowz0/bswe-portfolio/commit/901564d93a074ade65eef63ab3ee0ba13f35c8ca))
+
+
+### Features
+
+* create ProjectCardProps ([c7de761](https://github.com/flowz0/bswe-portfolio/commit/c7de761e5f4aef6453260a006423cc3f81784a23))
+* create responsive Projects component ([910ee96](https://github.com/flowz0/bswe-portfolio/commit/910ee96f934ddd9dc3ed088cb56e3dffbafcd0f1))
+* create reusable ProjectCard component ([88db3fb](https://github.com/flowz0/bswe-portfolio/commit/88db3fbefda81f7fb4b1a400aa31f3958986434e))
+* implement Projects componet into app and remove overflow-y-auto from parent div ([c9ac3e2](https://github.com/flowz0/bswe-portfolio/commit/c9ac3e2f645540ee20c251c0e9d1700d792dcfac))
+* **links:** add navigation links to view full resume ([04cf9b1](https://github.com/flowz0/bswe-portfolio/commit/04cf9b17edcc20e671bee7cfda23f5660865a789))
+
 ## [1.5.2](https://github.com/flowz0/bswe-portfolio/compare/v1.5.1...v1.5.2) (2025-10-18)
 
 
