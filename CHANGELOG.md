@@ -1,3 +1,11 @@
+## [1.5.1](https://github.com/flowz0/bswe-portfolio/compare/v1.5.0...v1.5.1) (2025-10-17)
+
+
+### Bug Fixes
+
+* add parent div to FaArrowRight icon to fix responsive size in ExperienceCard component ([38d60e5](https://github.com/flowz0/bswe-portfolio/commit/38d60e5e63cb6412ba81448d79c178b3af1c8ffe))
+* update title and dateRange in Experience component ([ed319cb](https://github.com/flowz0/bswe-portfolio/commit/ed319cb8e4856df5d50964f124619a668b88ceac))
+
 # [1.5.0](https://github.com/flowz0/bswe-portfolio/compare/v1.4.0...v1.5.0) (2025-10-17)
 
 
