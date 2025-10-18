@@ -1,3 +1,11 @@
+## [1.8.1](https://github.com/flowz0/bswe-portfolio/compare/v1.8.0...v1.8.1) (2025-10-18)
+
+
+### Bug Fixes
+
+* add bottom padding for mobile only in Footer component ([57d052c](https://github.com/flowz0/bswe-portfolio/commit/57d052ce4a9158350c131bb08c49ba392d73f6c1))
+* improve responsive spacing layout in App ([ff49a7f](https://github.com/flowz0/bswe-portfolio/commit/ff49a7f0206ea98f64d816a980840bbf6196e622))
+
 # [1.8.0](https://github.com/flowz0/bswe-portfolio/compare/v1.7.3...v1.8.0) (2025-10-18)
 
 
