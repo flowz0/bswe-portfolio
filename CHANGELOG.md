@@ -1,3 +1,10 @@
+# [1.8.0](https://github.com/flowz0/bswe-portfolio/compare/v1.7.3...v1.8.0) (2025-10-18)
+
+
+### Features
+
+* activate nav link if user is in respective section and optimize code for implementation in Sidebar and About component ([69d8273](https://github.com/flowz0/bswe-portfolio/commit/69d827344db6f3c5325ea9e7f46d8846e9f42428))
+
 ## [1.7.3](https://github.com/flowz0/bswe-portfolio/compare/v1.7.2...v1.7.3) (2025-10-18)
 
 
