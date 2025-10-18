@@ -1,3 +1,11 @@
+## [1.5.2](https://github.com/flowz0/bswe-portfolio/compare/v1.5.1...v1.5.2) (2025-10-18)
+
+
+### Bug Fixes
+
+* set text small and add default cursor for Tag component ([c1f1e8a](https://github.com/flowz0/bswe-portfolio/commit/c1f1e8a7434212ee8c5ff51d50c782da72813861))
+* update hover style and set dateRange text small in ExperienceCard component ([87538de](https://github.com/flowz0/bswe-portfolio/commit/87538dec34d118ae536af3413a89afc11eb67b94))
+
 ## [1.5.1](https://github.com/flowz0/bswe-portfolio/compare/v1.5.0...v1.5.1) (2025-10-17)
 
 
