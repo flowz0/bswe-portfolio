@@ -1,4 +1,6 @@
+import Link from "next/link";
 import ExperienceCard from "../ui/ExperienceCard";
+import { FaArrowRight } from "react-icons/fa";
 
 export default function Experience() {
   return (
@@ -20,6 +22,17 @@ export default function Experience() {
           tags={["JavaScript", "React", "React Router", "Bulma CSS", "Axios"]}
         />
       </div>
+      <Link 
+        href="/resume/Billy_Flowers_Software_Engineer_Resume.pdf" 
+        className="flex items-center gap-x-2 w-fit transition-colors duration-300 ease-in-out mt-8 hover:text-primary"
+        passHref
+        target="_blank"
+      >
+        View Full Resume
+        <div>
+          <FaArrowRight className="size-6 -rotate-45" />
+        </div>
+      </Link>
     </section>
   );
 }
