@@ -8,7 +8,7 @@ export default function Page() {
       <header>
         <Link
           href="/"
-          className="flex items-center gap-x-2 w-fit font-bold text-primary transition-all duration-300 ease-in-out hover:gap-x-3"
+          className="flex items-center gap-x-2 w-fit font-bold text-neutral-300 transition-colors duration-300 ease-in-out hover:text-primary"
         >
           <FaArrowLeft className="size-4" />
           Go Back
