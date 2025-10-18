@@ -1,3 +1,11 @@
+# [1.7.0](https://github.com/flowz0/bswe-portfolio/compare/v1.6.0...v1.7.0) (2025-10-18)
+
+
+### Features
+
+* create responsive Footer component ([cb9cf53](https://github.com/flowz0/bswe-portfolio/commit/cb9cf539935a7ae7ec596e254dde567ddb440ebe))
+* implement Footer component into app ([603bcc3](https://github.com/flowz0/bswe-portfolio/commit/603bcc3c97e41f12eb7c3d74c611eca9ab780ddc))
+
 # [1.6.0](https://github.com/flowz0/bswe-portfolio/compare/v1.5.2...v1.6.0) (2025-10-18)
 
 
