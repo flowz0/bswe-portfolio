@@ -17,7 +17,7 @@ export default function ProjectCard({
         <FaImage className="size-6 text-neutral-700" />
       </div>
       {/* </div> */}
-      <div className="mt-4 order-1 lg:mt-0">
+      <div className="order-1 lg:mt-0">
         <Link href={link || "/"} className="flex items-center gap-x-2 group w-fit">
           <h3 className="text-p font-bold text-neutral-100 transition-colors duration-300 ease-in-out group-hover:text-primary">
             {title}
