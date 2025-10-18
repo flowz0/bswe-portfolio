@@ -17,7 +17,7 @@ export default function ExperienceCard({
         <p className="text-sm font-bold text-neutral-500 cursor-default">{dateRange}</p>
       </div>
       <div>
-        <Link href={link || "/"} className="flex items-center gap-x-2 group w-fit mt-1">
+        <Link href={link || "/"} className="flex items-center gap-x-2 group w-fit mt-1 lg:mt-0">
           <h3 className="text-p font-bold text-neutral-100 transition-colors duration-300 ease-in-out group-hover:text-primary">
             {title} • {company}
           </h3>
