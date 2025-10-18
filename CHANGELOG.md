@@ -1,3 +1,10 @@
+## [1.7.1](https://github.com/flowz0/bswe-portfolio/compare/v1.7.0...v1.7.1) (2025-10-18)
+
+
+### Bug Fixes
+
+* improve misaligned spacing to improve UX space consistency ([843dc52](https://github.com/flowz0/bswe-portfolio/commit/843dc52c5a1bf510f56fe37fb965bb052200c056))
+
 # [1.7.0](https://github.com/flowz0/bswe-portfolio/compare/v1.6.0...v1.7.0) (2025-10-18)
 
 
