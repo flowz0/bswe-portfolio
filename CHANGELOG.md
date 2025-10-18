@@ -1,3 +1,10 @@
+## [1.8.2](https://github.com/flowz0/bswe-portfolio/compare/v1.8.1...v1.8.2) (2025-10-18)
+
+
+### Bug Fixes
+
+* improve metadata title and description to optimize SEO for more visibility locally ([7554f4d](https://github.com/flowz0/bswe-portfolio/commit/7554f4db2edb765fc34860c8d397f90b8ba882f2))
+
 ## [1.8.1](https://github.com/flowz0/bswe-portfolio/compare/v1.8.0...v1.8.1) (2025-10-18)
 
 
