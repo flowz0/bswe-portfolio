@@ -9,8 +9,8 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "Billy Flowers",
-  description: "Billy Flowers is a software engineer who builds accessible, scalable, and performant digital experiences on the web.",
+  title: "Billy Flowers Software Engineer Portfolio",
+  description: "Billy Flowers is a software engineer based in Modesto, CA who builds accessible, scalable, and performant digital experiences on the web.",
 };
 
 export default function RootLayout({
