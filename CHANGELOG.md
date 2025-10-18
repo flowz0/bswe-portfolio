@@ -1,3 +1,13 @@
+## [1.8.3](https://github.com/flowz0/bswe-portfolio/compare/v1.8.2...v1.8.3) (2025-10-18)
+
+
+### Bug Fixes
+
+* add links to cards in Experience component ([b7cfb34](https://github.com/flowz0/bswe-portfolio/commit/b7cfb342dedb77078fa4ecec29cfe3f059adcf3f))
+* update card Link and remove project placeholder in Projects component ([9fad13e](https://github.com/flowz0/bswe-portfolio/commit/9fad13e57847a9cffaf006921dc433ccb0374bab))
+* update Go back Link colors and hover state in Projects page ([a68aa0a](https://github.com/flowz0/bswe-portfolio/commit/a68aa0a3b366725b543189e8ed17c263a20d3eec))
+* update Projects page with correct Project information ([c1743e7](https://github.com/flowz0/bswe-portfolio/commit/c1743e708a567d82bb3298438e5d7288d2adb5c0))
+
 ## [1.8.2](https://github.com/flowz0/bswe-portfolio/compare/v1.8.1...v1.8.2) (2025-10-18)
 
 
