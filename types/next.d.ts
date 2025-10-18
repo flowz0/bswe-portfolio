@@ -11,3 +11,10 @@ export interface ExperienceCardProps {
   link?: string;
   tags: string[];
 }
+
+export interface ProjectCardProps {
+  title: string;
+  summary: string;
+  link?: string;
+  tags?: string[];
+}
