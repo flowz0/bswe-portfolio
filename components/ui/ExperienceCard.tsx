@@ -14,15 +14,15 @@ export default function ExperienceCard({
   return (
     <div className="lg:grid lg:grid-cols-[160px_1fr]">
       <div>
-        <p className="text-p font-bold text-neutral-500">{dateRange}</p>
+        <p className="text-sm font-bold text-neutral-500 cursor-default">{dateRange}</p>
       </div>
       <div>
-        <Link href={link || "/"} className="flex items-center gap-x-2 group">
-          <h3 className="text-p font-bold text-neutral-100">
+        <Link href={link || "/"} className="flex items-center gap-x-2 group w-fit">
+          <h3 className="text-p font-bold text-neutral-100 transition-colors duration-300 ease-in-out group-hover:text-primary">
             {title} • {company}
           </h3>
           <div>
-            <FaArrowRight className="size-6 -rotate-45 transition-all duration-300 ease-in-out group-hover:rotate-0" />
+            <FaArrowRight className="size-6 -rotate-45 transition-colors duration-300 ease-in-out group-hover:text-primary" />
           </div>
         </Link>
         <p className="text-p text-neutral-300 mt-2">
