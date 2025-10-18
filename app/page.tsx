@@ -6,9 +6,9 @@ import Footer from "@/components/layout/Footer";
 
 export default function Home() {
   return (
-    <main className="max-w-7xl mx-auto px-6 py-16 lg:py-24 lg:grid lg:grid-cols-[400px_1fr]">
+    <main className="max-w-7xl mx-auto px-6 lg:grid lg:grid-cols-[400px_1fr]">
       <Sidebar />
-      <div className="lg:pl-32">
+      <div className="lg:pl-32 py-16 lg:py-24">
         <About />
         <Experience />
         <Projects />
