@@ -1,3 +1,11 @@
+## [1.7.2](https://github.com/flowz0/bswe-portfolio/compare/v1.7.1...v1.7.2) (2025-10-18)
+
+
+### Bug Fixes
+
+* add hover text color and target attribute set to "_blank" in Footer component ([2264724](https://github.com/flowz0/bswe-portfolio/commit/2264724f6437551f341013d5225ab123486ef4c7))
+* improve misaligned spacing to improve UX space consistency in App ([0a63911](https://github.com/flowz0/bswe-portfolio/commit/0a639117226eb2df04c8004ab40e7ac0af166558))
+
 ## [1.7.1](https://github.com/flowz0/bswe-portfolio/compare/v1.7.0...v1.7.1) (2025-10-18)
 
 
