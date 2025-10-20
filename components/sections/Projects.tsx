@@ -15,6 +15,12 @@ export default function Projects() {
           link="https://github.com/flowz0/chat-app"
           tags={["Express", "Node.js", "Socket.IO", "MongoDB", "JWT", "bcryptjs"]}
         />
+        <ProjectCard
+          title="Duct Daddy - Custom Marketing Website & CMS"
+          summary="I built a fully custom marketing website for Duct Daddy Duct Cleaning featuring over 15 optimized pages designed for performance, accessibility, and SEO. The site includes an integrated booking system connected with Housecall Pro to streamline service scheduling and automate client interactions. Additionally, I developed a custom full-stack blog CMS directly integrated into the main website, complete with a secure admin dashboard for content management, enabling the business to easily publish SEO-focused articles and drive organic traffic."
+          link="https://github.com/flowz0/chat-app"
+          tags={["Express", "Node.js", "Next.js", "MongoDB", "Tailwind CSS", "Framer Motion"]}
+        />
       </div>
       <Link href="/projects" className="flex items-center gap-x-2 w-fit mt-8 transition-colors duration-300 ease-in-out hover:text-primary">
         View All Projects
