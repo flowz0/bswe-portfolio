@@ -1,3 +1,10 @@
+# [1.9.0](https://github.com/flowz0/bswe-portfolio/compare/v1.8.3...v1.9.0) (2025-10-20)
+
+
+### Features
+
+* add Duct Daddy project with reusable project component ([0a57623](https://github.com/flowz0/bswe-portfolio/commit/0a5762379c63679482c22be23cf3dd863b921704))
+
 ## [1.8.3](https://github.com/flowz0/bswe-portfolio/compare/v1.8.2...v1.8.3) (2025-10-18)
 
 
