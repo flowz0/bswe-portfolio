@@ -1,3 +1,10 @@
+## [1.9.1](https://github.com/flowz0/bswe-portfolio/compare/v1.9.0...v1.9.1) (2025-10-20)
+
+
+### Bug Fixes
+
+* remove unused comment from ProjectCard component ([8c2677c](https://github.com/flowz0/bswe-portfolio/commit/8c2677c433597b60c8c34b95df84da3d36756439))
+
 # [1.9.0](https://github.com/flowz0/bswe-portfolio/compare/v1.8.3...v1.9.0) (2025-10-20)
 
 
