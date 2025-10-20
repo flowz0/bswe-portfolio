@@ -12,11 +12,9 @@ export default function ProjectCard({
 }: ProjectCardProps) {
   return (
     <div className="flex flex-col lg:grid lg:grid-cols-[160px_1fr] lg:gap-x-5">
-      {/* <div className="order-2"> */}
       <div className="order-2 mt-4 lg:mt-0 lg:order-1 w-full sm:w-64 lg:w-full h-48 lg:h-28 flex items-center justify-center rounded-lg bg-neutral-800">
         <FaImage className="size-6 text-neutral-700" />
       </div>
-      {/* </div> */}
       <div className="order-1">
         <Link href={link || "/"} className="flex items-center gap-x-2 group w-fit">
           <h3 className="text-p font-bold text-neutral-100 transition-colors duration-300 ease-in-out group-hover:text-primary">
