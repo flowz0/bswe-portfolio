@@ -1,3 +1,10 @@
+## [1.9.4](https://github.com/flowz0/bswe-portfolio/compare/v1.9.3...v1.9.4) (2025-10-21)
+
+
+### Bug Fixes
+
+* update node version in github workflows release.yml ([5b9b671](https://github.com/flowz0/bswe-portfolio/commit/5b9b67146bb129319e423ee29f4bf76e8f5e22d3))
+
 ## [1.9.3](https://github.com/flowz0/bswe-portfolio/compare/v1.9.2...v1.9.3) (2025-10-21)
 
 
