@@ -1,3 +1,10 @@
+## [1.9.5](https://github.com/flowz0/bswe-portfolio/compare/v1.9.4...v1.9.5) (2025-10-21)
+
+
+### Bug Fixes
+
+* update Duct Daddy project link in Projects component ([2fc30af](https://github.com/flowz0/bswe-portfolio/commit/2fc30af97310ad40b1f9008e317a875aa4e09f57))
+
 ## [1.9.4](https://github.com/flowz0/bswe-portfolio/compare/v1.9.3...v1.9.4) (2025-10-21)
 
 
