@@ -1,3 +1,10 @@
+# [1.10.0](https://github.com/flowz0/bswe-portfolio/compare/v1.9.5...v1.10.0) (2025-10-21)
+
+
+### Features
+
+* install @next/third-parties and implement GoogleAnalytics into app layout ([38bb873](https://github.com/flowz0/bswe-portfolio/commit/38bb87377340659465b8de57bb83d3e98179a990))
+
 ## [1.9.5](https://github.com/flowz0/bswe-portfolio/compare/v1.9.4...v1.9.5) (2025-10-21)
 
 
