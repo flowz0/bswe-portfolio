@@ -16,7 +16,7 @@ export default function Experience() {
           tags={["TypeScript", "Next.js", "Tailwind CSS", "SendGrid Email API", "Vercel"]}
         />
         <ExperienceCard
-          dateRange="2023 - 2025"
+          dateRange="2023 - 2024"
           title="Front End Software Engineer Intern"
           company="Bay Valley Tech"
           summary="Contributed to the development of a full-stack social media platform, implementing core features such as a responsive navbar, dark/light mode toggle, and live user search using React and React Router. I optimized navigation with dynamic routing for user profiles, settings, and feed pages, improving usability and UI consistency. Working in an Agile Scrum environment, I collaborated with front-end and back-end teams through daily standups, code reviews, and sprint planning to deliver features on time and maintain a high-quality user experience."
