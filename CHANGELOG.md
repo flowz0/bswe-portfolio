@@ -1,3 +1,11 @@
+## [1.10.1](https://github.com/flowz0/bswe-portfolio/compare/v1.10.0...v1.10.1) (2025-10-22)
+
+
+### Bug Fixes
+
+* update Bay Valley Tech dateRange in Experience component ([bb7ced4](https://github.com/flowz0/bswe-portfolio/commit/bb7ced4ccef6ab1a49987d0ad9c755e3361ac389))
+* update Resume ([81821d5](https://github.com/flowz0/bswe-portfolio/commit/81821d51cbc5b9aba837f9dcb3ef03e32d394c93))
+
 # [1.10.0](https://github.com/flowz0/bswe-portfolio/compare/v1.9.5...v1.10.0) (2025-10-21)
 
 
