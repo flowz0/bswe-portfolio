@@ -1,3 +1,12 @@
+## [1.10.2](https://github.com/flowz0/bswe-portfolio/compare/v1.10.1...v1.10.2) (2025-10-23)
+
+
+### Bug Fixes
+
+* add scroll margin top to section in About component ([be6810f](https://github.com/flowz0/bswe-portfolio/commit/be6810f1fe1c23b0425435e1707eab68cb412c8b))
+* reorder projects from most recent to oldest projects in Projects component ([c77a5b1](https://github.com/flowz0/bswe-portfolio/commit/c77a5b17e1dcc4504b378ef41c695977d6e80cc4))
+* update Resume pdf to latest version ([1fbe865](https://github.com/flowz0/bswe-portfolio/commit/1fbe8656ac64a9e8d4435595a186f413a11b6af4))
+
 ## [1.10.1](https://github.com/flowz0/bswe-portfolio/compare/v1.10.0...v1.10.1) (2025-10-22)
 
 
