@@ -1,3 +1,16 @@
+# [1.11.0](https://github.com/flowz0/bswe-portfolio/compare/v1.10.2...v1.11.0) (2025-10-23)
+
+
+### Bug Fixes
+
+* add project image asset ([2b03ad1](https://github.com/flowz0/bswe-portfolio/commit/2b03ad1daad6c34257764988e803334a102978d8))
+* add project image assets ([d323ade](https://github.com/flowz0/bswe-portfolio/commit/d323adea6fb1915fee796a63ca8f41c8ed974af5))
+
+
+### Features
+
+* **ProjectCard:** add optional img prop to customize image per usage ([485e2fc](https://github.com/flowz0/bswe-portfolio/commit/485e2fcba047e888db5deef2d1d0c220758d75e3))
+
 ## [1.10.2](https://github.com/flowz0/bswe-portfolio/compare/v1.10.1...v1.10.2) (2025-10-23)
 
 

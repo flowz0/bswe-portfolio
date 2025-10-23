@@ -15,17 +15,14 @@ export default function ProjectCard({
   return (
     <div className="flex flex-col lg:grid lg:grid-cols-[160px_1fr] lg:gap-x-5">
       {img ? (
-        <div>
-
-          <Image
-            src={img}
-            alt={`${title} project image`}
-            className="object-cover order-2 mt-4 lg:mt-0 lg:order-1 w-full sm:w-64 lg:w-full h-48 lg:h-28 rounded-lg"
-            quality={100}
-            priority
-            draggable={false}
-          />
-        </div>
+        <Image
+          src={img}
+          alt={`${title} project image`}
+          className="object-cover order-2 mt-4 lg:mt-0 lg:order-1 w-full sm:w-64 lg:w-full h-48 lg:h-28 rounded-lg"
+          quality={100}
+          priority
+          draggable={false}
+        />
       ) : (
         <div className="order-2 mt-4 lg:mt-0 lg:order-1 w-full sm:w-64 lg:w-full h-48 lg:h-28 flex items-center justify-center rounded-lg bg-neutral-800">
           <FaImage className="size-6 text-neutral-700" />
