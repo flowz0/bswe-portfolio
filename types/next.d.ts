@@ -1,3 +1,5 @@
+import { StaticImageData } from "next/image";
+
 export interface ButtonProps {
   children: React.ReactNode;
   href: string;
@@ -15,6 +17,7 @@ export interface ExperienceCardProps {
 export interface ProjectCardProps {
   title: string;
   summary: string;
+  img?: StaticImageData | string;
   link?: string;
   tags?: string[];
 }
