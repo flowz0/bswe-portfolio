@@ -1,6 +1,6 @@
 export default function About() {
   return (
-    <section id="about">
+    <section id="about" className="scroll-mt-20">
       <h2 className="text-h3 font-bold text-neutral-100 lg:hidden">About</h2>
       <p className="text-p text-neutral-300 mt-4 lg:mt-0">
         I&apos;m a software engineer who specializes in front-end development, with a strong understanding of the full stack and how every layer connects to deliver seamless digital experiences. My focus is on crafting intuitive, responsive, and high-performing user interfaces that balance design, functionality, and accessibility.
