@@ -16,7 +16,7 @@ export default function Projects() {
           title="Duct Daddy - Custom Marketing Website & CMS"
           summary="I built a fully custom marketing website for Duct Daddy Duct Cleaning featuring over 15 optimized pages designed for performance, accessibility, and SEO. The site includes an integrated booking system connected with Housecall Pro to streamline service scheduling and automate client interactions. Additionally, I developed a custom full-stack blog CMS directly integrated into the main website, complete with a secure admin dashboard for content management, enabling the business to easily publish SEO-focused articles and drive organic traffic."
           img={DuctDaddyPlatformImg}
-          link="https://github.com/flowz0/dd-platform"
+          link="https://www.ductdaddykc.com"
           tags={["Express", "Node.js", "Next.js", "MongoDB", "Tailwind CSS", "Framer Motion"]}
         />
         <ProjectCard
