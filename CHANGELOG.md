@@ -1,3 +1,11 @@
+## [1.12.1](https://github.com/flowz0/bswe-portfolio/compare/v1.12.0...v1.12.1) (2025-10-25)
+
+
+### Bug Fixes
+
+* add another Project row in Project page ([6105d61](https://github.com/flowz0/bswe-portfolio/commit/6105d61ea33273cc4a8e5bbbcf690e46aae90889))
+* update Duct Daddy ProjectCard link in Projects component ([096e5ed](https://github.com/flowz0/bswe-portfolio/commit/096e5ed24aa60b6f7c4b5a47fd8664cc6f391653))
+
 # [1.12.0](https://github.com/flowz0/bswe-portfolio/compare/v1.11.0...v1.12.0) (2025-10-23)
 
 
