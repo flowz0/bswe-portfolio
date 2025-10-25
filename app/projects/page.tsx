@@ -30,6 +30,42 @@ export default function Page() {
           <div className="table-row-group">
             <div className="table-row">
               <div className="table-cell font-normal text-neutral-300">2025</div>
+              <div className="table-cell font-bold text-neutral-100">Duct Daddy - Custom Marketing Website & CMS</div>
+              <div className="hidden lg:table-cell">
+                <div className="flex flex-wrap gap-2">
+                  <div className="bg-neutral-700 text-neutral-300 text-p font-normal w-fit py-1 px-3 rounded-full">
+                    Express
+                  </div>
+                  <div className="bg-neutral-700 text-neutral-300 text-p font-normal w-fit py-1 px-3 rounded-full">
+                    Node.js
+                  </div>
+                  <div className="bg-neutral-700 text-neutral-300 text-p font-normal w-fit py-1 px-3 rounded-full">
+                    MongoDB
+                  </div>
+                  <div className="bg-neutral-700 text-neutral-300 text-p font-normal w-fit py-1 px-3 rounded-full">
+                    Next.js
+                  </div>
+                  <div className="bg-neutral-700 text-neutral-300 text-p font-normal w-fit py-1 px-3 rounded-full">
+                    Tailwind CSS
+                  </div>
+                  <div className="bg-neutral-700 text-neutral-300 text-p font-normal w-fit py-1 px-3 rounded-full">
+                    Framer Motion
+                  </div>
+                </div>
+              </div>
+              <div className="hidden md:table-cell">
+                <Link
+                  href="https://www.ductdaddykc.com"
+                  target="_blank"
+                  className="flex items-center gap-x-2 text-neutral-500 transition-colors duration-300 ease-in-out hover:text-primary"
+                >
+                  www.ductdaddykc.com
+                  <FaArrowRight className="size-4 -rotate-45" />
+                </Link>
+              </div>
+            </div>
+            <div className="table-row">
+              <div className="table-cell font-normal text-neutral-300">2025</div>
               <div className="table-cell font-bold text-neutral-100">Real-Time Chat Application</div>
               <div className="hidden lg:table-cell">
                 <div className="flex flex-wrap gap-2">
