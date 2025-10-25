@@ -1,3 +1,10 @@
+# [1.12.0](https://github.com/flowz0/bswe-portfolio/compare/v1.11.0...v1.12.0) (2025-10-23)
+
+
+### Features
+
+* **ProjectCard:** add optional img prop to customize image per usage ([259725b](https://github.com/flowz0/bswe-portfolio/commit/259725b3cfa86a2a404bd910b955a786fa4041a8))
+
 # [1.11.0](https://github.com/flowz0/bswe-portfolio/compare/v1.10.2...v1.11.0) (2025-10-23)
 
 
