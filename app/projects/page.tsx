@@ -67,7 +67,7 @@ export default function Page() {
             <div className="table-row">
               <div className="table-cell font-normal text-neutral-300">2025</div>
               <div className="table-cell font-bold text-neutral-100">Real-Time Chat Application</div>
-              <div className="hidden lg:table-cell">
+              <div className="hidden lg:table-cell lg:pt-4">
                 <div className="flex flex-wrap gap-2">
                   <div className="bg-neutral-700 text-neutral-300 text-p font-normal w-fit py-1 px-3 rounded-full">
                     JavaScript
