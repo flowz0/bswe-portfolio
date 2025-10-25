@@ -1,3 +1,10 @@
+## [1.12.2](https://github.com/flowz0/bswe-portfolio/compare/v1.12.1...v1.12.2) (2025-10-25)
+
+
+### Bug Fixes
+
+* improve padding between tags in table on Projects page ([93e72fb](https://github.com/flowz0/bswe-portfolio/commit/93e72fb85a41743309f6417e05a20556fb3b883d))
+
 ## [1.12.1](https://github.com/flowz0/bswe-portfolio/compare/v1.12.0...v1.12.1) (2025-10-25)
 
 
