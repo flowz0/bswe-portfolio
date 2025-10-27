@@ -1,4 +1,6 @@
 import { StaticImageData } from "next/image";
+import DuctDaddyImg from "@/public/assets/duct-daddy-platform.jpg";
+import ChatyAppImg from "@/public/assets/chat-app.png";
 
 export interface Project {
   id: number;
@@ -15,31 +17,21 @@ export const projects: Project[] = [
   {
     id: 0,
     date: "2024-09-27",
-    title: "Full Stack Web Application",
-    tech: ["Next.js", "Express", "Node.js", "MongoDB"],
-    link: "https://netflows.xyz",
-    linkLabel: "netflows.xyz",
-    desc: "A full stack web application that allows users to monitor and analyze network traffic in real-time.",
-    image: "/images/projects/netflows.png",
+    title: "Duct Daddy - Custom Marketing Website & CMS",
+    tech: ["Next.js", "Express", "Node.js", "MongoDB", "Tailwind CSS"],
+    link: "https://ductdaddykc.com",
+    linkLabel: "ductdaddykc.com",
+    desc: "I built a fully custom marketing website for Duct Daddy Duct Cleaning featuring over 15 optimized pages designed for performance, accessibility, and SEO. The site includes an integrated booking system connected with Housecall Pro to streamline service scheduling and automate client interactions. Additionally, I developed a custom full-stack blog CMS directly integrated into the main website, complete with a secure admin dashboard for content management, enabling the business to easily publish SEO-focused articles and drive organic traffic.",
+    image: DuctDaddyImg,
   },
   {
     id: 1,
     date: "2025-08-15",
-    title: "Interactive Dashboard",
-    tech: ["Next.js", "TypeScript", "Tailwind CSS"],
-    link: "https://dashboard.netflows.xyz",
-    linkLabel: "dashboard.netflows.xyz",
-    desc: "An interactive admin dashboard for monitoring user data and analytics.",
-    image: "/images/projects/dashboard.png",
-  },
-  {
-    id: 2,
-    date: "2025-06-15",
-    title: "HVAC Business Landing Page",
-    tech: ["Next.js", "SEO", "SendGrid"],
-    link: "https://ductdaddy.com",
-    linkLabel: "ductdaddy.com",
-    desc: "A responsive landing page that increased client conversions through optimized SEO and UX.",
-    image: "/images/projects/hvac.png",
+    title: "Chaty - Real-time Chat Application",
+    tech: ["Express", "Node.js", "MongoDB", "React", "Socket.IO"],
+    link: "https://github.com/flowz0/chat-app",
+    linkLabel: "github.com/flowz0/chat-app",
+    desc: "Developed a real-time chat application enabling instant private messaging with Socket.IO, achieving low latency and smooth responsiveness across sessions. The project featured JWT authentication, bcryptjs encryption, and cookie-based sessions to ensure secure account creation and persistent logins. Designed a scalable back-end architecture using Node.js and MongoDB capable of handling multiple concurrent connections while maintaining reliable message delivery and data integrity.",
+    image: ChatyAppImg,
   },
 ]
