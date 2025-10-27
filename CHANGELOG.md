@@ -1,3 +1,21 @@
+# [1.13.0](https://github.com/flowz0/bswe-portfolio/compare/v1.12.3...v1.13.0) (2025-10-27)
+
+
+### Bug Fixes
+
+* configure image qualities next.config ([981aa69](https://github.com/flowz0/bswe-portfolio/commit/981aa694b40b8a6cf69de5ac7e4473cfa3a9c33c))
+* manipulate project data to display Projects using the ProjectCard component ([ad2361f](https://github.com/flowz0/bswe-portfolio/commit/ad2361ffd67e5afd38c019736f0c2ef782c97bc4))
+* update Duct Daddy project title in projects config ([48669e6](https://github.com/flowz0/bswe-portfolio/commit/48669e67b7e98c506e4b952fc687d214ac4532ae))
+* update project dates in projects config ([01e25b7](https://github.com/flowz0/bswe-portfolio/commit/01e25b7522ff1c83f53cbe7b55395000df673230))
+* update projects config with accurate project data ([e6cff71](https://github.com/flowz0/bswe-portfolio/commit/e6cff71efdd725bc043a44bd2c79d0df1f41fd12))
+
+
+### Features
+
+* create new responsive reusable Table component & create projects config for static data ([908e3cb](https://github.com/flowz0/bswe-portfolio/commit/908e3cb5df21ef09f0b9aa5d1939e30da1160bf8))
+* create responsive table for all projects [WIP] ([346aad2](https://github.com/flowz0/bswe-portfolio/commit/346aad2779cafbf7e43cf9e4618d56130b888ea7))
+* implement new responsive table for Projects page ([6534da3](https://github.com/flowz0/bswe-portfolio/commit/6534da37d5e3f17017be6c8bc9826ddef1ba7199))
+
 ## [1.12.3](https://github.com/flowz0/bswe-portfolio/compare/v1.12.2...v1.12.3) (2025-10-27)
 
 
