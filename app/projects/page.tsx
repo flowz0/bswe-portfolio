@@ -30,7 +30,19 @@ export default function Page() {
           <div className="table-row-group">
             <div className="table-row">
               <div className="table-cell font-normal text-neutral-300">2025</div>
-              <div className="table-cell font-bold text-neutral-100">Duct Daddy - Custom Marketing Website & CMS</div>
+              <div className="table-cell font-bold text-neutral-100">
+                <p className="hidden md:block">
+                  Duct Daddy - Custom Marketing Website & CMS
+                </p>
+                <Link
+                  href="https://www.ductdaddykc.com"
+                  target="_blank"
+                  className="flex items-center gap-x-2 md:hidden text-neutral-300 transition-colors duration-300 ease-in-out hover:text-primary"
+                >
+                  Duct Daddy - Custom Marketing Website & CMS
+                  <FaArrowRight className="size-4 -rotate-45" />
+                </Link>
+              </div>
               <div className="hidden lg:table-cell">
                 <div className="flex flex-wrap gap-2">
                   <div className="bg-neutral-700 text-neutral-300 text-p font-normal w-fit py-1 px-3 rounded-full">
@@ -66,7 +78,19 @@ export default function Page() {
             </div>
             <div className="table-row">
               <div className="table-cell font-normal text-neutral-300">2025</div>
-              <div className="table-cell font-bold text-neutral-100">Real-Time Chat Application</div>
+              <div className="table-cell font-bold text-neutral-100">
+                <p className="hidden md:block">
+                  Real-Time Chat Application
+                </p>
+                <Link
+                  href="https://github.com/flowz0/chat-app"
+                  target="_blank"
+                  className="flex items-center gap-x-2 md:hidden text-neutral-300 transition-colors duration-300 ease-in-out hover:text-primary"
+                >
+                  Real-Time Chat Application
+                  <FaArrowRight className="size-4 -rotate-45" />
+                </Link>
+              </div>
               <div className="hidden lg:table-cell lg:pt-4">
                 <div className="flex flex-wrap gap-2">
                   <div className="bg-neutral-700 text-neutral-300 text-p font-normal w-fit py-1 px-3 rounded-full">
