@@ -17,7 +17,7 @@ export const projects: Project[] = [
   {
     id: 0,
     date: "2024-09-27",
-    title: "Duct Daddy - Custom Marketing Website & CMS",
+    title: "Duct Daddy Marketing Website & CMS",
     tech: ["Next.js", "Express", "Node.js", "MongoDB", "Tailwind CSS"],
     link: "https://ductdaddykc.com",
     linkLabel: "ductdaddykc.com",
