@@ -1,3 +1,10 @@
+## [1.12.3](https://github.com/flowz0/bswe-portfolio/compare/v1.12.2...v1.12.3) (2025-10-27)
+
+
+### Bug Fixes
+
+* implement conditional link for mobile table in Projects page ([af60569](https://github.com/flowz0/bswe-portfolio/commit/af605699daf02177c5e9f6c08b8fdbb099f900c0))
+
 ## [1.12.2](https://github.com/flowz0/bswe-portfolio/compare/v1.12.1...v1.12.2) (2025-10-25)
 
 
