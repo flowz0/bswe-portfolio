@@ -16,7 +16,7 @@ export interface Project {
 export const projects: Project[] = [
   {
     id: 0,
-    date: "2024-09-27",
+    date: "2025-08-3",
     title: "Duct Daddy Marketing Website & CMS",
     tech: ["Next.js", "Express", "Node.js", "MongoDB", "Tailwind CSS"],
     link: "https://ductdaddykc.com",
@@ -26,7 +26,7 @@ export const projects: Project[] = [
   },
   {
     id: 1,
-    date: "2025-08-15",
+    date: "2025-04-13",
     title: "Chaty - Real-time Chat Application",
     tech: ["Express", "Node.js", "MongoDB", "React", "Socket.IO"],
     link: "https://github.com/flowz0/chat-app",
