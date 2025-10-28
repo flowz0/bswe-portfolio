@@ -41,11 +41,16 @@ export default function ProjectCard({
         <p className="text-p text-neutral-300 mt-2">
           {summary}
         </p>
-        <div className="flex flex-wrap gap-2 mt-4">
+        <div className="flex-wrap gap-2 mt-4 hidden lg:flex">
           {tags?.map((tag, index) => (
             <Tag key={index}>{tag}</Tag>
           ))}
         </div>
+      </div>
+      <div className="flex flex-wrap gap-2 mt-4 order-3 lg:hidden">
+        {tags?.map((tag, index) => (
+          <Tag key={index}>{tag}</Tag>
+        ))}
       </div>
     </div >
   );
