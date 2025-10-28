@@ -11,7 +11,7 @@ export default function Experience() {
           dateRange="2025 - PRESENT"
           title="Full Stack Software Engineer"
           company="Netflows"
-          summary="Built and deployed a high-performance agency website using Next.js, TypeScript, and Tailwind CSS, achieving a 98 Web Core Vitals score through advanced optimization and best practices. I developed a custom multi-step booking form with real-time validation and accessible UX, boosting completion rates by 35%, and integrated SendGrid Email API with serverless automation to cut manual lead handling by 60% while managing deployment and analytics through Vercel and GA4."
+          summary="Reduced annual software expenses by $500 per client and improved client retention by developing a custom CRM solution with Next.js, TypeScript, Node.js, and MongoDB that automated workflows, invoicing, and lead tracking. Designed a centralized dashboard with modular components to enhance maintainability and usability. This solution delivered measurable cost savings, streamlined operations, and increased agency ROI."
           link="https://www.netflows.xyz/"
           tags={["TypeScript", "Next.js", "Tailwind CSS", "SendGrid Email API", "Vercel"]}
         />
@@ -19,7 +19,7 @@ export default function Experience() {
           dateRange="2023 - 2024"
           title="Front End Software Engineer Intern"
           company="Bay Valley Tech"
-          summary="Contributed to the development of a full-stack social media platform, implementing core features such as a responsive navbar, dark/light mode toggle, and live user search using React and React Router. I optimized navigation with dynamic routing for user profiles, settings, and feed pages, improving usability and UI consistency. Working in an Agile Scrum environment, I collaborated with front-end and back-end teams through daily standups, code reviews, and sprint planning to deliver features on time and maintain a high-quality user experience."
+          summary="Enhanced the accessibility and performance of a social media platform by developing responsive front-end features including dynamic navigation, theme toggling, and live search using React and TypeScript. Improved user experience and reduced render latency by 30% through optimized state management and dynamic routing across feeds, profiles, and posts. Collaborated in an Agile team environment through daily stand-ups, sprint planning, and code reviews to ensure maintainable, high-quality deliverables aligned with project milestones."
           link="https://github.com/FrancescaImmediato/dev-duckies-sm-proj-front"
           tags={["JavaScript", "React", "React Router", "Bulma CSS", "Axios"]}
         />
