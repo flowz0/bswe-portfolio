@@ -73,15 +73,17 @@ export default function Sidebar() {
           target="_blank"
           rel="noopener noreferrer"
           href="https://www.linkedin.com/in/billyflowers/"
+          className="text-neutral-500 transition-colors duration-300 ease-in-out hover:text-neutral-300"
         >
-          <FaLinkedin className="size-8 text-neutral-500 hover:text-neutral-300" />
+          <FaLinkedin className="size-10 " />
         </Link>
         <Link
           target="_blank"
           rel="noopener noreferrer"
           href="https://github.com/flowz0"
+          className="text-neutral-500 transition-colors duration-300 ease-in-out hover:text-neutral-300"
         >
-          <FaGithubSquare className="size-8 text-neutral-500 hover:text-neutral-300" />
+          <FaGithubSquare className="size-10" />
         </Link>
       </div>
     </aside>
