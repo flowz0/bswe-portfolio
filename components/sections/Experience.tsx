@@ -4,7 +4,7 @@ import { FaArrowRight } from "react-icons/fa";
 
 export default function Experience() {
   return (
-    <section id="experience" className="mt-32 lg:scroll-mt-24">
+    <section id="experience" className="mt-24 lg:mt-32 lg:scroll-mt-24">
       <h2 className="text-h3 font-bold text-neutral-100 lg:hidden">Experience</h2>
       <div className="flex flex-col gap-y-8 mt-4 lg:mt-0">
         <ExperienceCard

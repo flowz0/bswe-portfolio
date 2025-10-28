@@ -9,7 +9,7 @@ export default function Projects() {
   );
 
   return (
-    <section id="projects" className="mt-32 lg:scroll-mt-24">
+    <section id="projects" className="mt-24 lg:mt-32 lg:scroll-mt-24">
       <h2 className="text-h3 font-bold text-neutral-100 lg:hidden">
         Projects
       </h2>
