@@ -1,6 +1,7 @@
 import { projects } from "@/config/projects";
 import Link from "next/link";
 import { FaArrowRight } from "react-icons/fa";
+import Tag from "./Tag";
 
 export default function Table() {
   const sortedProjects = [...projects].sort(
@@ -37,12 +38,7 @@ export default function Table() {
             <div className="hidden md:table-cell py-2 px-4 align-top">
               <div className="flex flex-wrap gap-2">
                 {project.tech.map((tech, index) => (
-                  <p
-                    key={index}
-                    className="text-neutral-300 text-p py-1 px-3 bg-neutral-900 rounded-full"
-                  >
-                    {tech}
-                  </p>
+                  <Tag key={index}>{tech}</Tag>
                 ))}
               </div>
             </div>
