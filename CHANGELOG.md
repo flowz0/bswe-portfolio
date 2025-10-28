@@ -1,3 +1,12 @@
+## [1.13.1](https://github.com/flowz0/bswe-portfolio/compare/v1.13.0...v1.13.1) (2025-10-28)
+
+
+### Bug Fixes
+
+* improve responsive layout in ProjectCard component ([81801d1](https://github.com/flowz0/bswe-portfolio/commit/81801d13e94caaf120da3a21787dcf7632092062))
+* pass project tech data to Tag component in Table component ([607939c](https://github.com/flowz0/bswe-portfolio/commit/607939c8ca0dade2f1f7c6a5dc5dc43f76744c57))
+* update Tag component custom styling ([bb3726a](https://github.com/flowz0/bswe-portfolio/commit/bb3726a815cbb9ea74d17a298ef81e8c48ab15e7))
+
 # [1.13.0](https://github.com/flowz0/bswe-portfolio/compare/v1.12.3...v1.13.0) (2025-10-27)
 
 
