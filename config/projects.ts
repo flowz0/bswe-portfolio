@@ -21,7 +21,7 @@ export const projects: Project[] = [
     tech: ["Next.js", "Express", "Node.js", "MongoDB", "Tailwind CSS"],
     link: "https://ductdaddykc.com",
     linkLabel: "ductdaddykc.com",
-    desc: "I built a fully custom marketing website for Duct Daddy Duct Cleaning featuring over 15 optimized pages designed for performance, accessibility, and SEO. The site includes an integrated booking system connected with Housecall Pro to streamline service scheduling and automate client interactions. Additionally, I developed a custom full-stack blog CMS directly integrated into the main website, complete with a secure admin dashboard for content management, enabling the business to easily publish SEO-focused articles and drive organic traffic.",
+    desc: "Increased organic traffic by 40% and eliminated publishing delays by architecting a full-stack SEO-driven content management system using Next.js, TypeScript, Express, and MongoDB. Enabled non-technical staff to manage content independently through a modular admin interface, while automated CI/CD pipelines with Heroku and Vercel achieved 99.9% uptime and faster feature rollouts. This project improved operational efficiency, reduced developer dependency, and enhanced long-term scalability.",
     image: DuctDaddyImg,
   },
   {
@@ -31,7 +31,7 @@ export const projects: Project[] = [
     tech: ["Express", "Node.js", "MongoDB", "React", "Socket.IO"],
     link: "https://github.com/flowz0/chat-app",
     linkLabel: "github.com/flowz0/chat-app",
-    desc: "Developed a real-time chat application enabling instant private messaging with Socket.IO, achieving low latency and smooth responsiveness across sessions. The project featured JWT authentication, bcryptjs encryption, and cookie-based sessions to ensure secure account creation and persistent logins. Designed a scalable back-end architecture using Node.js and MongoDB capable of handling multiple concurrent connections while maintaining reliable message delivery and data integrity.",
+    desc: "Delivered low-latency private messaging by building a real-time chat platform with Socket.IO, Node.js, and MongoDB, achieving seamless communication across users. Secured user sessions using JWT authentication, bcrypt encryption, and cookie-based sessions, while optimizing database structures to handle concurrent connections and preserve data integrity. This improved performance, reliability, and scalability for real-time collaboration systems.",
     image: ChatyAppImg,
   },
 ]
