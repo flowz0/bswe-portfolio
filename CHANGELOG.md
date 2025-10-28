@@ -1,3 +1,12 @@
+## [1.13.3](https://github.com/flowz0/bswe-portfolio/compare/v1.13.2...v1.13.3) (2025-10-28)
+
+
+### Bug Fixes
+
+* add responsive section padding in Experience & Projects components ([5a4d664](https://github.com/flowz0/bswe-portfolio/commit/5a4d664b07fd89c152d1407130a77754bfd27222))
+* add smooth hover color transition on Social Links in Sidebar component ([2445d4b](https://github.com/flowz0/bswe-portfolio/commit/2445d4bb70866432cc4d159f8702a846842090ca))
+* update Duct Daddy project title in config ([5aa571e](https://github.com/flowz0/bswe-portfolio/commit/5aa571ecf7e52a19aee9f2b504344ed70be61b80))
+
 ## [1.13.2](https://github.com/flowz0/bswe-portfolio/compare/v1.13.1...v1.13.2) (2025-10-28)
 
 
