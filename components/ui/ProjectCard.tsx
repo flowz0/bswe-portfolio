@@ -31,11 +31,11 @@ export default function ProjectCard({
       }
       <div className="order-1">
         <Link href={link || "/"} className="flex items-center gap-x-2 group w-fit">
-          <h3 className="text-p font-bold text-neutral-100 transition-colors duration-300 ease-in-out group-hover:text-primary">
+          <h3 className="text-h6 font-bold text-neutral-100 transition-colors duration-300 ease-in-out group-hover:text-primary">
             {title}
           </h3>
           <div>
-            <FaArrowRight className="size-6 -rotate-45 transition-colors duration-300 ease-in-out group-hover:text-primary" />
+            <FaArrowRight className="size-4 -rotate-45 transition-colors duration-300 ease-in-out group-hover:text-primary" />
           </div>
         </Link>
         <p className="text-p text-neutral-300 mt-2">

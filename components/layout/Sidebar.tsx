@@ -24,7 +24,7 @@ export default function Sidebar() {
         <h1 className="text-h2 font-bold text-neutral-100 lg:text-h1">
           Billy Flowers
         </h1>
-        <h2 className="text-p font-bold text-neutral-300 mt-2">
+        <h2 className="text-h6 font-bold text-neutral-300 mt-2">
           Full Stack Software Engineer
         </h2>
         <p className="text-p text-neutral-300 mt-4">
