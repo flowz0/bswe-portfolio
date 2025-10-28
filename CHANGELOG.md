@@ -1,3 +1,10 @@
+# [1.14.0](https://github.com/flowz0/bswe-portfolio/compare/v1.13.3...v1.14.0) (2025-10-28)
+
+
+### Features
+
+* **theme:** add h4–h6 text sizes and line heights for improved hierarchy ([45fda0a](https://github.com/flowz0/bswe-portfolio/commit/45fda0ac0e32e7bd88490dc2d0e82e7260f46ac7))
+
 ## [1.13.3](https://github.com/flowz0/bswe-portfolio/compare/v1.13.2...v1.13.3) (2025-10-28)
 
 
