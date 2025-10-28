@@ -25,10 +25,10 @@ export default function Sidebar() {
           Billy Flowers
         </h1>
         <h2 className="text-p font-bold text-neutral-300 mt-2">
-          Full Stack Engineer
+          Full Stack Software Engineer
         </h2>
         <p className="text-p text-neutral-300 mt-4">
-          I create accessible, performant, and scalable digital solutions for the web.
+          I build accessible, high-performance, and scalable digital experiences for the web.
         </p>
 
         {/* Navigation */}
