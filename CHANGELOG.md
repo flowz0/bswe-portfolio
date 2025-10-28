@@ -1,3 +1,10 @@
+# [1.15.0](https://github.com/flowz0/bswe-portfolio/compare/v1.14.0...v1.15.0) (2025-10-28)
+
+
+### Features
+
+* implement new h6 styling in Sidebar, ExperienceCard, and ProjectCard components ([cade33d](https://github.com/flowz0/bswe-portfolio/commit/cade33d5ba86ca9701139cdf42c186d58cea8816))
+
 # [1.14.0](https://github.com/flowz0/bswe-portfolio/compare/v1.13.3...v1.14.0) (2025-10-28)
 
 
