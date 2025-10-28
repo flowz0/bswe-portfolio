@@ -1,3 +1,13 @@
+## [1.13.2](https://github.com/flowz0/bswe-portfolio/compare/v1.13.1...v1.13.2) (2025-10-28)
+
+
+### Bug Fixes
+
+* update About component content ([6aca40a](https://github.com/flowz0/bswe-portfolio/commit/6aca40a1a093ee64d32d33b781111eb2965745a9))
+* update ExperienceCard summaries in Experiece component ([71fd104](https://github.com/flowz0/bswe-portfolio/commit/71fd10440bfbe274df203d977a0b6166a10fb2a8))
+* update position and bio in Sidebar component ([a25993a](https://github.com/flowz0/bswe-portfolio/commit/a25993aed259d2282a1dedf67016eb0b55b05fb3))
+* update projects desc in config ([f08f96e](https://github.com/flowz0/bswe-portfolio/commit/f08f96e3935a3318e38daa03a224431a66e7e6bf))
+
 ## [1.13.1](https://github.com/flowz0/bswe-portfolio/compare/v1.13.0...v1.13.1) (2025-10-28)
 
 
