@@ -1,3 +1,10 @@
+## [1.15.1](https://github.com/flowz0/bswe-portfolio/compare/v1.15.0...v1.15.1) (2025-10-29)
+
+
+### Bug Fixes
+
+* remove unused comment in README.md ([515ce1b](https://github.com/flowz0/bswe-portfolio/commit/515ce1b3a2bf51245bc74b13a352d50a083b213b))
+
 # [1.15.0](https://github.com/flowz0/bswe-portfolio/compare/v1.14.0...v1.15.0) (2025-10-28)
 
 
