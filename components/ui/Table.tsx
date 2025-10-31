@@ -28,7 +28,7 @@ export default function Table() {
               <p className="hidden text-p sm:inline-block">
                 {project.title}
               </p>
-              <Link href={project.link} className="text-neutral-300 text-p flex gap-x-2 w-fit transition-colors duration-300 ease-in-out hover:text-primary sm:hidden">
+              <Link href={project.link} target="_blank" className="text-neutral-300 text-p flex gap-x-2 w-fit transition-colors duration-300 ease-in-out hover:text-primary sm:hidden">
                 {project.title}
                 <div>
                   <FaArrowRight className="size-4 -rotate-45" />
@@ -43,7 +43,7 @@ export default function Table() {
               </div>
             </div>
             <div className="hidden sm:table-cell py-2 px-4">
-              <Link href={project.link} className="text-neutral-400 text-p flex gap-x-2 w-fit transition-colors duration-300 ease-in-out hover:text-primary">
+              <Link href={project.link} target="_blank" className="text-neutral-400 text-p flex gap-x-2 w-fit transition-colors duration-300 ease-in-out hover:text-primary">
                 {project.linkLabel}
                 <div>
                   <FaArrowRight className="size-4 -rotate-45" />

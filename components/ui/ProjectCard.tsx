@@ -30,7 +30,7 @@ export default function ProjectCard({
       )
       }
       <div className="order-1">
-        <Link href={link || "/"} className="flex items-center gap-x-2 group w-fit">
+        <Link href={link || "/"} target="_blank" className="flex items-center gap-x-2 group w-fit">
           <h3 className="text-h6 font-bold text-neutral-100 transition-colors duration-300 ease-in-out group-hover:text-primary">
             {title}
           </h3>
