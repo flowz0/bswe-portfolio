@@ -1,3 +1,10 @@
+# [1.16.0](https://github.com/flowz0/bswe-portfolio/compare/v1.15.1...v1.16.0) (2025-10-30)
+
+
+### Features
+
+* **projects:** support dynamic rendering for Experiences in Experience component and add new project ([c6f9d98](https://github.com/flowz0/bswe-portfolio/commit/c6f9d98fe7111dfbb8292747b8f64f9d99ca5119))
+
 ## [1.15.1](https://github.com/flowz0/bswe-portfolio/compare/v1.15.0...v1.15.1) (2025-10-29)
 
 
