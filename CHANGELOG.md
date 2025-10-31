@@ -1,3 +1,10 @@
+## [1.16.1](https://github.com/flowz0/bswe-portfolio/compare/v1.16.0...v1.16.1) (2025-10-31)
+
+
+### Bug Fixes
+
+* open external links in new tabs across multiple components ([bd6993f](https://github.com/flowz0/bswe-portfolio/commit/bd6993f0cfb4d5373938da5f7440dd7f39d26908))
+
 # [1.16.0](https://github.com/flowz0/bswe-portfolio/compare/v1.15.1...v1.16.0) (2025-10-30)
 
 
