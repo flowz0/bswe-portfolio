@@ -1,3 +1,10 @@
+## [1.16.2](https://github.com/flowz0/bswe-portfolio/compare/v1.16.1...v1.16.2) (2025-10-31)
+
+
+### Bug Fixes
+
+* update Resume pdf file ([54b5cb0](https://github.com/flowz0/bswe-portfolio/commit/54b5cb0852ffbdd3381bf8e5d32a7e033b2e3d24))
+
 ## [1.16.1](https://github.com/flowz0/bswe-portfolio/compare/v1.16.0...v1.16.1) (2025-10-31)
 
 
