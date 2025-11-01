@@ -11,7 +11,6 @@
 
 - ✅ Minimal, fast-loading, responsive design
 - ✅ Project showcase with dynamic routing
-- ✅ Contact form integration using Brevo
 - ✅ SEO-friendly metadata and clean structure
 
 ---
@@ -20,9 +19,7 @@
 
 - **Framework:** [Next.js](https://nextjs.org/)
 - **Styling:** [Tailwind CSS](https://tailwindcss.com/)
-- **Forms & Email:** [Brevo](https://www.brevo.com/)
-- **Hosting & Deployment:** [Vercel](https://vercel.com/)
-- **API / HTTP Requests:** [Axios](https://axios-http.com/)
+- **Hosting:** [Vercel](https://vercel.com/)
 
 ---
 
@@ -60,7 +57,7 @@ FROM_EMAIL=your@email.com
 
 You can view the live version of the portfolio at:
 
-🔗 [Live demo link](https://www.google.com)
+🔗 [Live demo link](https://bswe-portfolio.vercel.app/)
 
 ---
 
