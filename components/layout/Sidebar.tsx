@@ -25,7 +25,7 @@ export default function Sidebar() {
           Billy Flowers
         </h1>
         <h2 className="text-h6 font-bold text-neutral-300 mt-2">
-          Full Stack Software Engineer
+          Software Engineer
         </h2>
         <p className="text-p text-neutral-300 mt-4">
           I build accessible, high-performance, and scalable digital experiences for the web.
