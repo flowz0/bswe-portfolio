@@ -1,3 +1,10 @@
+## [1.16.5](https://github.com/flowz0/bswe-portfolio/compare/v1.16.4...v1.16.5) (2025-11-03)
+
+
+### Bug Fixes
+
+* update title in Projects config ([46db2f6](https://github.com/flowz0/bswe-portfolio/commit/46db2f68b3fe28606bb632a3a06d8361edf014e7))
+
 ## [1.16.4](https://github.com/flowz0/bswe-portfolio/compare/v1.16.3...v1.16.4) (2025-11-03)
 
 
