@@ -1,3 +1,10 @@
+## [1.16.3](https://github.com/flowz0/bswe-portfolio/compare/v1.16.2...v1.16.3) (2025-11-03)
+
+
+### Bug Fixes
+
+* update Title in Sidebar component ([3e6f8c7](https://github.com/flowz0/bswe-portfolio/commit/3e6f8c718d8c2881d4f4df664d039a34efc34e0e))
+
 ## [1.16.2](https://github.com/flowz0/bswe-portfolio/compare/v1.16.1...v1.16.2) (2025-10-31)
 
 
