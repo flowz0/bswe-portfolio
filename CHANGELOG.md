@@ -1,3 +1,11 @@
+## [1.16.4](https://github.com/flowz0/bswe-portfolio/compare/v1.16.3...v1.16.4) (2025-11-03)
+
+
+### Bug Fixes
+
+* remove Duct Daddy and add Lead Gen Tool to Projects config ([483fc81](https://github.com/flowz0/bswe-portfolio/commit/483fc815971ce91b04fc495115224bacc46ecd2a))
+* remove duct daddy platform image and add lead gen tool Project image ([0d4aa23](https://github.com/flowz0/bswe-portfolio/commit/0d4aa2342120919227cb5246d2db43f285a91ee8))
+
 ## [1.16.3](https://github.com/flowz0/bswe-portfolio/compare/v1.16.2...v1.16.3) (2025-11-03)
 
 
