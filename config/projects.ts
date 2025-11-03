@@ -17,7 +17,7 @@ export const projects: Project[] = [
   {
     id: 0,
     date: "2025-04-13",
-    title: "Chaty - Real-time Chat Application",
+    title: "Real-time Chat Application",
     tech: ["Express", "Node.js", "MongoDB", "React", "Socket.IO"],
     link: "https://github.com/flowz0/chat-app",
     linkLabel: "github.com/flowz0/chat-app",
