@@ -1,3 +1,12 @@
+## [1.16.7](https://github.com/flowz0/bswe-portfolio/compare/v1.16.6...v1.16.7) (2025-11-11)
+
+
+### Bug Fixes
+
+* update bio in Sidebar component ([f35c868](https://github.com/flowz0/bswe-portfolio/commit/f35c8680853bcb40feb6137ac7118403df530d9e))
+* update Link styling and decrease arrow size in Experience and Projects components ([0ae6c90](https://github.com/flowz0/bswe-portfolio/commit/0ae6c907a0b80ba1649f6530c111dcad81b7ffe8))
+* update section content in About component ([2b0684e](https://github.com/flowz0/bswe-portfolio/commit/2b0684e6cafb7839f4d604a84ce1f850c260005e))
+
 ## [1.16.6](https://github.com/flowz0/bswe-portfolio/compare/v1.16.5...v1.16.6) (2025-11-11)
 
 
