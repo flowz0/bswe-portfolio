@@ -28,7 +28,7 @@ export default function Sidebar() {
           Software Engineer
         </h2>
         <p className="text-p text-neutral-300 mt-4">
-          I build intuitive, accessible, and scalable digital experiences across the modern web.
+          Build intuitive, accessible, and scalable digital experiences across the modern web.
         </p>
 
         {/* Navigation */}
