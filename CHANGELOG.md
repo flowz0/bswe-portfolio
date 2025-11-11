@@ -1,3 +1,10 @@
+## [1.16.6](https://github.com/flowz0/bswe-portfolio/compare/v1.16.5...v1.16.6) (2025-11-11)
+
+
+### Bug Fixes
+
+* update subheader in Sidebar component ([33d414b](https://github.com/flowz0/bswe-portfolio/commit/33d414b131964009bf3cbe60c7063d0f49fe2e11))
+
 ## [1.16.5](https://github.com/flowz0/bswe-portfolio/compare/v1.16.4...v1.16.5) (2025-11-03)
 
 
