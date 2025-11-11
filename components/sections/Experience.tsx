@@ -22,13 +22,13 @@ export default function Experience() {
       </div>
       <Link
         href="/resume/Billy_Flowers_Software_Engineer_Resume.pdf"
-        className="flex items-center gap-x-2 w-fit transition-colors duration-300 ease-in-out mt-8 hover:text-primary"
+        className="flex items-center gap-x-2 w-fit transition-colors duration-300 ease-in-out mt-8 text-p font-bold hover:text-primary"
         passHref
         target="_blank"
       >
         View Full Resume
         <div>
-          <FaArrowRight className="size-6 -rotate-45" />
+          <FaArrowRight className="size-4 -rotate-45" />
         </div>
       </Link>
     </section>

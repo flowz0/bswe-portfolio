@@ -25,10 +25,13 @@ export default function Projects() {
           />
         ))}
       </div>
-      <Link href="/projects" className="flex items-center gap-x-2 w-fit mt-8 transition-colors duration-300 ease-in-out hover:text-primary">
+      <Link
+        href="/projects"
+        className="flex items-center gap-x-2 w-fit transition-colors duration-300 ease-in-out mt-8 text-p font-bold hover:text-primary"
+      >
         View All Projects
         <div>
-          <FaArrowRight className="size-6 -rotate-45" />
+          <FaArrowRight className="size-4 -rotate-45" />
         </div>
       </Link>
     </section>
